@@ -10,7 +10,7 @@
 ## Installation
 To install the package, run:
 ```bash
-go get -u github.com/go-zoox/ip
+go get -u github.com/go-zoox/open
 ```
 
 ## Getting Started
