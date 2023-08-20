@@ -1,4 +1,4 @@
-# IP - Get the Public and Internal IP
+# Open - Opens the specified file or URL with the default associated application.
 
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/go-zoox/ip)](https://pkg.go.dev/github.com/go-zoox/ip)
 [![Build Status](https://github.com/go-zoox/ip/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/go-zoox/ip/actions/workflows/ci.yml)
